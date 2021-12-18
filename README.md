@@ -1,6 +1,11 @@
 # Homa AI competition
 
-## Commands
+## 1. run
+```
+python main.py -p1 player1.py -p2 player2.py
+```
+
+### 2. Commands
 ```
 print(0) -> Go left
 print(1) -> Go right
