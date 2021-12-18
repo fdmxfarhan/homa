@@ -1,2 +1,1 @@
-# homa
-homa AI competition
+# Homa AI competition
