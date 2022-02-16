@@ -153,3 +153,391 @@
 12-18-2021 23:31:35 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log827759.json
 12-18-2021 23:31:35 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_858666.txt
 12-18-2021 23:31:35 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_889514.txt
+12-19-2021 13:22:27 INFO: ================================================================================
+12-19-2021 13:22:27 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:22:27 WARNING: Player 2 failed to respond to initiation message. Penalising player and ending the game.
+12-19-2021 13:22:27 INFO: Winner is player 1. Policy: Other player was terminated.
+12-19-2021 13:22:27 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log419549.json
+12-19-2021 13:22:27 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_443509.txt
+12-19-2021 13:22:27 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_450385.txt
+12-19-2021 13:22:50 INFO: ================================================================================
+12-19-2021 13:22:50 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:22:50 WARNING: Player 2 failed to respond to initiation message. Penalising player and ending the game.
+12-19-2021 13:22:50 INFO: Winner is player 1. Policy: Other player was terminated.
+12-19-2021 13:22:50 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log614569.json
+12-19-2021 13:22:50 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_639377.txt
+12-19-2021 13:22:50 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_641369.txt
+12-19-2021 13:23:04 INFO: ================================================================================
+12-19-2021 13:23:04 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:23:04 WARNING: Player 2 action in step 3 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 5 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 7 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 8 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 9 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 10 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 11 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 12 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 13 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 14 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 15 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 16 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 17 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 18 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 19 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 20 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 21 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 22 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 23 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 24 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 25 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 26 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 27 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 28 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 29 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 30 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 31 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 32 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 33 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 34 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 35 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 36 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 37 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 38 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 39 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:04 WARNING: Player 1 action in step 40 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:04 WARNING: Player 2 action in step 41 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 42 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 43 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 44 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 45 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 46 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 47 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 48 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 49 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 50 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 51 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 52 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 53 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 54 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 55 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 56 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 57 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 58 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 59 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 60 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 61 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 62 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 63 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 64 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 65 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 66 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 67 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 68 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 69 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 70 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 71 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 72 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 73 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 74 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 75 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 76 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 77 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 78 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 79 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 80 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 81 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 82 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 83 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 84 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 85 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 86 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 87 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 88 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 89 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 90 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 91 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 92 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 93 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 94 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 95 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 96 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 97 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 98 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 99 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 100 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 101 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 102 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 103 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 104 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 105 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 106 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 107 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 108 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 109 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 110 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 111 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 112 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 113 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 114 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 115 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 116 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 117 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 118 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 119 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 120 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 121 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 122 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 123 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 124 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 125 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 126 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 127 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 128 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 129 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 130 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 131 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 132 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 133 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 134 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 135 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 136 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 137 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 138 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 139 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 140 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 141 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 142 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 143 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 144 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 145 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 146 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 147 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 148 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 149 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 150 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 WARNING: Player 2 action in step 151 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:05 WARNING: Player 1 action in step 152 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:05 INFO: Calculating the winner...
+12-19-2021 13:23:05 INFO: Winner is player 1. Policy: Other player is dead.
+12-19-2021 13:23:05 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log738495.json
+12-19-2021 13:23:05 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_784194.txt
+12-19-2021 13:23:05 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_815451.txt
+12-19-2021 13:23:28 INFO: ================================================================================
+12-19-2021 13:23:28 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:23:28 WARNING: Player 2 action in step 3 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 5 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 7 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 8 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 9 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 10 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 11 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 12 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 13 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 14 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 15 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 16 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 17 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 18 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 19 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 20 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 21 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 22 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 23 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 24 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 25 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 26 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 27 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 28 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 29 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 30 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 31 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 32 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 33 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 34 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 35 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 36 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 37 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 38 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 39 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 40 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 41 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 42 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 43 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 44 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 45 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:28 WARNING: Player 1 action in step 46 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:28 WARNING: Player 2 action in step 47 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 48 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 49 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 50 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 51 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 52 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 53 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 54 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 55 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 56 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 57 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 58 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 59 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 60 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 61 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 62 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 63 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 64 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 65 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 66 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 67 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 68 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 69 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 70 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 71 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 72 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 73 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 74 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 75 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 76 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 77 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 78 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 79 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 80 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 81 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 82 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 83 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 84 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 85 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 86 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 87 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 88 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 89 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 90 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 91 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 92 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 93 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 94 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 95 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 96 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 97 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 98 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 99 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 100 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 101 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 102 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 103 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 104 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 105 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 106 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 107 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 108 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 109 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 110 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 111 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 112 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 113 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 114 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 115 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 116 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 117 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 118 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 119 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 120 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 121 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 122 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 123 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:29 WARNING: Player 1 action in step 124 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:29 WARNING: Player 2 action in step 125 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 126 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 127 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 128 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 129 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 130 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 131 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 132 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 133 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 134 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 135 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 136 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 137 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 138 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 139 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 140 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 141 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 142 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 143 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 144 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 145 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 146 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 147 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 148 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 149 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 150 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 WARNING: Player 2 action in step 151 ignored! 'right' tile is not accessible (9, 15).
+12-19-2021 13:23:30 WARNING: Player 1 action in step 152 ignored! 'right' tile is not accessible (1, 6).
+12-19-2021 13:23:30 INFO: Calculating the winner...
+12-19-2021 13:23:30 INFO: Winner is player 1. Policy: Other player is dead.
+12-19-2021 13:23:30 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log405515.json
+12-19-2021 13:23:30 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_467008.txt
+12-19-2021 13:23:30 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_497230.txt
+12-19-2021 13:27:13 INFO: ================================================================================
+12-19-2021 13:27:13 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:27:13 WARNING: Player 1 action in step 2 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 3 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:13 WARNING: Player 1 action in step 4 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 5 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:13 WARNING: Player 1 action in step 6 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 7 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:13 WARNING: Player 1 action in step 8 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 9 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:13 WARNING: Player 1 action in step 12 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 13 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:13 WARNING: Player 1 action in step 14 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 15 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:13 WARNING: Player 1 action in step 16 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:13 WARNING: Player 2 action in step 17 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:14 WARNING: Player 1 action in step 18 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:14 WARNING: Player 2 action in step 19 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:14 WARNING: Player 1 action in step 22 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:14 WARNING: Player 2 action in step 23 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:14 WARNING: Player 1 action in step 24 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:14 WARNING: Player 2 action in step 25 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:14 WARNING: Player 1 action in step 26 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:14 WARNING: Player 2 action in step 27 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:14 WARNING: Player 1 action in step 28 ignored! There is already a bomb in this tile (1, 1).
+12-19-2021 13:27:14 WARNING: Player 2 action in step 29 ignored! There is already a bomb in this tile (9, 13).
+12-19-2021 13:27:14 INFO: Calculating the winner...
+12-19-2021 13:27:14 INFO: Winner is player 2. Policy: Other player is dead.
+12-19-2021 13:27:14 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log369054.json
+12-19-2021 13:27:14 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_423487.txt
+12-19-2021 13:27:14 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_467126.txt
+12-19-2021 13:45:58 INFO: ================================================================================
+12-19-2021 13:45:58 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:45:58 WARNING: Player 1 action in step 8 ignored! 'up' tile is not accessible (0, 2).
+12-19-2021 13:45:58 INFO: Calculating the winner...
+12-19-2021 13:45:58 INFO: Winner is player 2. Policy: Other player is dead.
+12-19-2021 13:45:59 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log998635.json
+12-19-2021 13:45:59 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_28037.txt
+12-19-2021 13:45:59 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_47873.txt
+12-19-2021 13:46:41 INFO: ================================================================================
+12-19-2021 13:46:41 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:46:41 WARNING: Player 1 action in step 8 ignored! 'up' tile is not accessible (0, 2).
+12-19-2021 13:46:42 INFO: Calculating the winner...
+12-19-2021 13:46:42 INFO: Winner is player 2. Policy: Other player is dead.
+12-19-2021 13:46:42 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log722888.json
+12-19-2021 13:46:42 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_747849.txt
+12-19-2021 13:46:42 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_796994.txt
+12-19-2021 13:52:32 INFO: ================================================================================
+12-19-2021 13:52:32 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:52:33 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_242731.txt
+12-19-2021 13:54:16 INFO: ================================================================================
+12-19-2021 13:54:16 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:54:17 INFO: Calculating the winner...
+12-19-2021 13:54:17 INFO: Winner is player 2. Policy: Random.
+12-19-2021 13:54:17 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log351512.json
+12-19-2021 13:54:17 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_408044.txt
+12-19-2021 13:54:17 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_452529.txt
+12-19-2021 13:54:30 INFO: ================================================================================
+12-19-2021 13:54:30 INFO: Opening map from C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\maps\map9.json.
+12-19-2021 13:54:31 INFO: Calculating the winner...
+12-19-2021 13:54:31 INFO: Winner is player 1. Policy: Random.
+12-19-2021 13:54:31 INFO: Game log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../gameLog\game_log718144.json
+12-19-2021 13:54:31 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\1_834260.txt
+12-19-2021 13:54:32 INFO: Agent log saved in: C:\Users\Farhan\Documents\GitHub\homa\Engine\Logic\../agentLog\2_72909.txt
